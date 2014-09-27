@@ -1,16 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2014-09-27T20:08:02+09:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[alaif's github pages.]]></title>
+  <link href="http://alaif-net.github.io/atom.xml" rel="self"/>
+  <link href="http://alaif-net.github.io/"/>
+  <updated>2014-09-27T21:24:58+09:00</updated>
+  <id>http://alaif-net.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[alaif(Fuminori ALAI)]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Octopress & GitHub Pagesのお試し]]></title>
+    <link href="http://alaif-net.github.io/blog/2014/09/27/title/"/>
+    <updated>2014-09-27T21:13:27+09:00</updated>
+    <id>http://alaif-net.github.io/blog/2014/09/27/title</id>
+    <content type="html"><![CDATA[<h2>内容はまだ&hellip;無い。</h2>
+
+<p>Octopressでページを生成しGitHub Pagesにデプロイしてみた。
+スタティックにページを生成してくれるBLOG/CMSが欲しかった。</p>
+
+<p>インストール等の備忘は後ほど。</p>
+]]></content>
+  </entry>
   
 </feed>
